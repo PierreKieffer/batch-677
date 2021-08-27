@@ -1,5 +1,5 @@
-GCP_PROJECT_ID=project-id
-APP_NAME=taxifare
+GCP_PROJECT_ID=ai-datalake
+APP_NAME=webapp
 
 all : build 
 
